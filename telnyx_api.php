@@ -1,7 +1,7 @@
 <? 
 
 # Copyright (c) 2020 Fernando
-# Url: https://github.com/dlfernando/
+# Url: https://github.com/fernandod1
 # License: MIT
 
 define("MYSQLHOST", "YOUR_DB_HOST");

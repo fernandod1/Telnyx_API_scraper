@@ -4,8 +4,8 @@ PHP script that queries Telnyx API and get free phone numbers by area code and f
 
 REQUIREMENTS:
 
-- PHP and MySQ
+- PHP and MySQL
 
 COLLABORATIONS:
 
-Collaborations to improve this script are always webcome.
+Collaborations to improve script are always welcome.
