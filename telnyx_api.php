@@ -1,9 +1,9 @@
 <? 
-
-# Copyright (c) 2020 Fernando
-# Url: https://github.com/fernandod1
-# License: MIT
-
+/*
+ Copyright (c) 2020 Fernando
+ Url: https://github.com/fernandod1
+ License: MIT
+*/
 define("MYSQLHOST", "YOUR_DB_HOST");
 define("DBNAME", "YOUR_DB_NAME");
 define("USERNAME", "YOUR_DB_USERNAME");
